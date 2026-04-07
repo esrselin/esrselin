@@ -25,37 +25,6 @@ Currently, I am improving my skills at **42 Istanbul**, working on low-level pro
 - ▸ **Interest areas:** System design, real-time systems, performance optimization  
 - ▸ **Background:** AI-powered legal chatbot project (TÜBİTAK supported)  
 
----
-
-## ◈ Projects
-
-### Twitterly
-**.NET 8 • ASP.NET Core • Redis • EF Core • MSSQL**
-
-- Built a scalable RESTful API managing complex relational data  
-- Integrated Redis caching → **40% performance improvement**  
-- Optimized SQL queries & indexing for large-scale datasets  
-- Implemented N-Tier architecture with Dependency Injection  
-
----
-
-### CollabDraw
-**ASP.NET Core • SignalR • React • WebSockets**
-
-- Developed real-time collaborative drawing system  
-- Enabled multi-user interaction with low-latency communication  
-- Designed responsive UI with HTML5 Canvas  
-
----
-
-### Todo-Sensei
-**Node.js • Telegram Bot API • NLP**
-
-- Built productivity bot with **300+ daily active users**  
-- Implemented NLP-based intent detection (**92% accuracy**)  
-- Integrated Pomodoro system to increase productivity  
-
----
 
 ## ◈ Experience
 

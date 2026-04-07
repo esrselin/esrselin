@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I’m Esra Selin 👋</h1>
+  <h1>Hello, I’m Esra Selin </h1>
   <p>
     <strong>Software Engineer</strong><br/>
     Backend • Fullstack • System Design
@@ -54,7 +54,28 @@ MSSQL • PostgreSQL • Redis • Docker
 Git • Agile/Scrum • CI/CD  
 
 </div>
+---
+---
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
+<div align="center">
+
+### ◈ Front-end & Mobile
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
+
+### ◈ Back-end
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+
+### ◈ Infra & Design
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
 ---
 
 ## ◈ Contact

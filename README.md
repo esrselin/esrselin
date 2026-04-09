@@ -55,7 +55,7 @@ Currently, I am improving my skills at **42 Istanbul**, working on low-level pro
     <img src="https://cdn-icons-png.flaticon.com/512/3676/3676281.png" width="42"/>
   </a> 
   &nbsp; • &nbsp;
-  <a href="https://drive.google.com/file/d/1CHT5txhqUSr-B5JuqleO9lYCkhXV5m6e/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1dSrOm90U1m6LJxjh-wxkDqpLyN33bIzy/view?usp=sharing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="42"/>
   </a>
 </p>
